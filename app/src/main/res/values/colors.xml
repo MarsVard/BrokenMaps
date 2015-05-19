@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#3fa436</color>
+    <color name="primary_color_lighter">#47b73c</color>
+    <color name="primary_color_darker">#399531</color>
+    <color name="secondary_color">#3977AE</color>
+    <color name="secondary_color_66">#663977AE</color>
+    <color name="secondary_color_22">#223977AE</color>
+    <color name="secondary_dark_tint_color">#306C9F</color>
+
+
+    <color name="color_fab">#f1356a</color>
+    <color name="color_fab_lighter">#f14d7b</color>
+
+    <color name="color_weather_widget">#e7e3dc</color>
+
+    <color name="path_color">#0a883e</color>
+</resources>

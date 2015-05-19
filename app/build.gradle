@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.marsvard.brokenmaps"
+        minSdkVersion 10
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+repositories {
+
+    mavenLocal()
+    maven { url "http://jzaccone.github.io/SlidingMenu-aar" }
+    maven { url 'http://download.crashlytics.com/maven' }
+    // fall back to central
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:22.1.1'
+    compile 'com.android.support:appcompat-v7:22.1.1'
+
+    compile 'com.nineoldandroids:library:2.4.0'
+
+    compile 'com.github.johnkil.android-robototextview:robototextview:2.1.0'
+    compile 'com.android.support:cardview-v7:21.0.3'
+    compile 'com.google.code.findbugs:jsr305:2.0.2'
+    compile 'org.oscim:vtm:0.5.9-SNAPSHOT'
+    compile 'org.oscim:vtm-android:0.5.9-SNAPSHOT@aar'
+    compile 'org.oscim:vtm-themes:0.5.9-SNAPSHOT'
+}

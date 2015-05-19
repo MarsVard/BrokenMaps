@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="compass_text_size">15sp</dimen>
+    <dimen name="compass_poi_id_textsize">10sp</dimen>
+    <dimen name="userlocation_indicator_size">20dp</dimen>
+    <dimen name="callout_number_textsize">20sp</dimen>
+    <dimen name="callout_title_textsize">18sp</dimen>
+    <dimen name="callout_title_label_textsize">12sp</dimen>
+    <dimen name="poi_detail_body">14sp</dimen>
+    <dimen name="poi_detail_number">24sp</dimen>
+
+    <dimen name="poi_old_new_text_size">16sp</dimen>
+
+    <dimen name="padding_horizontal">15dp</dimen>
+    <dimen name="padding_vertical">15dp</dimen>
+    <dimen name="padding_overlay">10dp</dimen>
+
+    <!-- action button on detail fragment -->
+    <dimen name="action_button_size">70dp</dimen>
+
+    <!-- action button on detail fragment -->
+    <dimen name="action_button_size_small">60dp</dimen>
+
+    <!-- action button on detail fragment -->
+    <dimen name="action_button_padding_size">13dp</dimen>
+    <dimen name="callout_action_button_size">43dp</dimen>
+    <dimen name="poi_detail_icon_size">70dp</dimen>
+
+    <dimen name="timeline_icon_size">50dp</dimen>
+    <dimen name="timeline_instruction_icon_size">40dp</dimen>
+
+    <dimen name="timeline_icon_padding">11dp</dimen>
+    <dimen name="timeline_distance_textsize">12sp</dimen>
+    <dimen name="timeline_title_size">22sp</dimen>
+    <dimen name="splash_button_textsize">14sp</dimen>
+    <dimen name="splash_button_margin_right">70dp</dimen>
+    <dimen name="splash_button_margin_left">70dp</dimen>
+    <dimen name="quiz_answer_button_size">90dp</dimen>
+    <dimen name="quiz_answer_button_margin">7dp</dimen>
+    <dimen name="quiz_title_textsize">24sp</dimen>
+    <dimen name="quiz_result_size">80sp</dimen>
+    <dimen name="challenge_words_width">120dp</dimen>
+    <dimen name="history_challenge_item_title_size">14sp</dimen>
+    <dimen name="history_challenge_item_date_size">12sp</dimen>
+    <dimen name="history_challenge_icon_size">40dp</dimen>
+    <dimen name="challenge_history_timer_size">70dp</dimen>
+    <dimen name="challenge_history_timer_textsize">40sp</dimen>
+    <dimen name="dialog_title_text_size">18sp</dimen>
+    <dimen name="tutorial_title_textsize">20sp</dimen>
+    <dimen name="tutorial_description_textsize">18sp</dimen>
+
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+
+    <dimen name="overlay_instruction_icon_size">70dp</dimen>
+    <dimen name="overlay_instruction_icon_size_small">60dp</dimen>
+
+
+    <dimen name="inline_instruction_icon_size">50dp</dimen>
+    <dimen name="inline_instruction_icon_size_small">40dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_outline_radius">2dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+
+</resources>

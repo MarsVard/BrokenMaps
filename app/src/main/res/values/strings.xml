@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- distance -->
+    <string name="meter">m</string>
+    <string name="kilometer">km</string>
+
+    <string name="app_name">City App</string>
+    <string name="title_activity_map">@string/app_name</string>
+    <string name="my_route">My route</string>
+    <string name="arrived_at">You have arrived at "%1$s".</string>
+    <string name="arrived_allcaps">ARRIVED</string>
+    <string name="start_route">Start route</string>
+    <string name="callout_status_not_visited">Niet bezocht</string>
+    <string name="callout_status_closest">Nearby</string>
+    <string name="callout_status_visited">Visited</string>
+    <string name="callout_status_next">Next point on route</string>
+    <string name="start_route_splash">Start the walk</string>
+    <string name="info_splash">info</string>
+    <string name="next_question">Next question</string>
+    <string name="submit_quiz_answer">Next question</string>
+    <string name="start_game">start</string>
+    <string name="front">front</string>
+    <string name="back">back</string>
+    <string name="share">share</string>
+
+</resources>
